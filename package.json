@@ -1,0 +1,19 @@
+{
+  "name": "Tagger",
+  "version": "1.0.0",
+  "description": "Tagger is a convenient tool that allows inserting tags in any part of the text",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Narbut",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6"
+  },
+  "dependencies": {},
+  "optionalDependencies": {}
+}
